@@ -1,0 +1,11 @@
+.h1 {
+    background-color:grey 
+    margin-top: 0;
+    font-size: 175%;
+  };
+  
+.button {
+  background-color: blueviolet;
+    font: 22px "Open Sans", Helvetica, Arial, sans-serif;
+    padding: 5px 36px;
+};
