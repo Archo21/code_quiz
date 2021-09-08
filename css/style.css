@@ -1,0 +1,16 @@
+
+button{
+  float: inline-start;
+  background-color: rgb(70, 226, 43);
+  padding: 15px;
+}
+.question{
+  background-color: rgb(220, 231, 255);
+}
+
+  .hide{
+    display: none;
+  }
+  .show{
+    display: block;
+  }
